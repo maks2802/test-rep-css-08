@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+}
+
+.first-text {
+    text-indent: 2em;
+}
+
+.protocol-list {
+    list-style-type: square;
+    margin-left: 5.5em;
+    font-size: 0.9em;
+    font-style: italic;
+}
